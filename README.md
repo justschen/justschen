@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ```javascript
 const justin = {
   pronouns: "he" | "him",
-  code: [JavaScript, TypeScript, HTML, CSS, Python, Java, C, GoLang],
-  tools: [React, Redux, Node, Next, Sails, Flutter, GitHub Codespaces, Visual Studio Code, Figma],
+  code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
+  tools: [React, Redux, Node, Next, Sails, Docker, Flutter, Jupyter, GitHub Codespaces, Visual Studio Code, Figma],
   interests: ["full stack web development", "aerospace and space tech", "machine learning"],
   techCommunities: [{
                      orgnanization: "Space Technologies at Cal",
@@ -39,7 +39,8 @@ const justin = {
                      role: "External Vice President and Co-Founder"
                     }],
   locations: ["Berkeley", "Seattle", "Irvine"],
-  hobbies: ["Bouldering", "Guitar", "Travelling"]
+  hobbies: ["Bouldering", "Guitar", "Traveling"],
+  favoriteArtists: ["Keshi", "Jeremy Zucker", "LANY", "Rich Brian", "Joji"]
 }
 ```
 
@@ -61,7 +62,7 @@ I'm passionate about full-stack development and human-centric design, space tech
 
 **Student Organizations at UC Berkeley**
 - Co-Founder at [Web Development @ Berkeley](https://webatberkeley.org) - Web development consulting
-- External Vice President and Avionics Developer at [Space Technologies at Cal](https://stac.berkeley.edu) - Pushing the frontiers of space tech and research
+- External Vice President and Avionics Developer at [Space Technologies @ Cal](https://stac.berkeley.edu) - Pushing the frontiers of space tech and research
 
 
 **Things I've Worked On**
