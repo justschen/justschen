@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <p>Computer Science and Applied Math Major at <a href="https://berkeley.edu">University of Berkeley, California</a></br>Currently: Software Engineer at Microsoft, <a href="https://www.code.visualstudio.com">VS Code</a> 
 </p>
 
-[![Twitter: its_just_chen](https://img.shields.io/twitter/follow/its_just_chen?style=social)](https://twitter.com/its_just_chen)
 [![Linkedin: justinshawnchen](https://img.shields.io/badge/-justinshawnchen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinshawnchen/)](https://www.linkedin.com/in/justinshawnchen/)
+[![Twitter: its_just_chen](https://img.shields.io/twitter/follow/its_just_chen?style=social)](https://twitter.com/its_just_chen)
+[![Instagram: _just_chen](https://img.shields.io/badge/@_just_chen_-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_just_chen_)
 [![GitHub justschen](https://img.shields.io/github/followers/justschen?label=follow&style=social)](https://github.com/justschen)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
