@@ -49,7 +49,7 @@ I'm passionate about full-stack development and human-centric design, space tech
 
 - 🔭 Redefining code editing with VS Code.
 - ✨ My favorite hobbies are bouldering and playing guitar
-- 💻 My favorite language is Typescript :0
+- 💻 Currently working on full-stack applications in Typescript/Electron
 - 📫 How to reach me: justinshawnchen@berkeley.edu
 
 
