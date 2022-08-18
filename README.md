@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 const justin = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
-  tools: [React, Redux, Node, Next, Sails, Docker, Flutter, Jupyter, GitHub Codespaces, Visual Studio Code, Figma],
+  frameworks: [React, Redux, Next, Sails, Angular, Node, Vue],
+  tools: [MonngoDB, Express, AWS (Amplify, SageMaker, EC2, DynamoDB), Kubernetes, Docker, Flutter, Jupyter, Codespaces, Figma],
   interests: ["full stack web development", "aerospace and space tech", "machine learning"],
   techCommunities: [{
                      orgnanization: "Space Technologies at Cal",
@@ -52,6 +53,7 @@ I'm passionate about full-stack development and human-centric design, space tech
 - ✨ My favorite hobbies are bouldering and playing guitar
 - 💻 Currently working on full-stack applications in Typescript/Electron
 - 📫 How to reach me: justinshawnchen@berkeley.edu
+- 🚀 Fun fact: I've launched 3 satellites into space and been in mission control @ Cape Canaveral Air Force Base.
 
 
 **Links**
