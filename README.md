@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hey, I'm Justin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p>Computer Science and Applied Math Major at <a href="https://berkeley.edu">University of Berkeley, California</a></br>Currently: Software Engineer at Microsoft, <a href="https://www.code.visualstudio.com">VS Code</a> 
+<p><a href="https://berkeley.edu">University of California, Berkeley</a> Graduate with a Bachelor's in Computer Science and Applied Math</br>Currently: Software Engineer at Microsoft, <a href="https://www.code.visualstudio.com">VS Code</a> 
 </p>
 
 [![Linkedin: justinshawnchen](https://img.shields.io/badge/-justinshawnchen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justinshawnchen/)](https://www.linkedin.com/in/justinshawnchen/)
