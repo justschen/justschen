@@ -28,32 +28,21 @@ Here are some ideas to get you started:
 ```javascript
 const justin = {
   pronouns: "he" | "him",
+  workingAt: "microsoft",
   code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
   frameworks: [React, Redux, Next, Sails, Angular, Node, Vue],
   tools: [MonngoDB, Express, AWS (Amplify, SageMaker, EC2, DynamoDB), Kubernetes, Docker, Flutter, Jupyter, Codespaces, Figma],
   interests: ["full stack web development", "aerospace and space tech", "machine learning"],
-  techCommunities: [{
-                     orgnanization: "Space Technologies at Cal",
-                     role: "External Vice President" 
-                    }, {
-                     orgnanization: "Web Development at Berkeley",
-                     role: "External Vice President and Co-Founder"
-                    }],
   locations: ["Berkeley", "Seattle", "Irvine"],
   hobbies: ["Bouldering", "Guitar", "Traveling"],
   favoriteArtists: ["Keshi", "Jeremy Zucker", "LANY", "Rich Brian", "Joji"]
 }
 ```
 
-I'm Justin and I'm currently a senior studying Computer Science and Applied Math at UC Berkeley, working as a software engineer.
-
-I'm passionate about full-stack development and human-centric design, space technologies and research, and building scalable and customer-driven products. 
-
-- 🔭 Redefining code editing with VS Code.
+- 🔭 Currently working on VS Code.
 - ✨ My favorite hobbies are bouldering and playing guitar
-- 💻 Currently working on full-stack applications in Typescript/Electron
 - 📫 How to reach me: justinshawnchen@berkeley.edu
-- 🚀 Fun fact: I've launched 3 satellites into space and been in mission control @ Cape Canaveral Air Force Base.
+- 🚀 Fun fact: I've launched 3 satellites into space and have been in mission control @ Cape Canaveral Air Force Base.
 
 
 **Links**
