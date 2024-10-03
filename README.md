@@ -51,8 +51,8 @@ const justin = {
 
 **Student Organizations at UC Berkeley**
 - Co-Founder at [Web Development @ Berkeley](https://webatberkeley.org) - Web development consulting
-- External Vice President and Avionics Developer at [Space Technologies @ Cal](https://stac.berkeley.edu) - Pushing the frontiers of space tech and research
-- Organizer at Berkeley's [Space Tech Symposium](https://www.stac.berkeley.edu/sts3) - Bringing together space tech pioneers in industry and research.
+- External Vice President and Avionics Developer at [Space Technologies @ Cal](https://stac.studentorg.berkeley.edu) - Pushing the frontiers of space tech and research
+- Organizer at Berkeley's [Space Tech Symposium](https://stac.studentorg.berkeley.edu/sts3) - Bringing together space tech pioneers in industry and research.
 
 
 **Things I've Worked On**
