@@ -30,8 +30,8 @@ const justin = {
   pronouns: "he" | "him",
   workingAt: "microsoft",
   code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
-  interests: ["full stack web development", "aerospace and space tech", "machine learning"],
-  locations: ["LA", "Seattle"],
+  interests: ["full stack web development", "machine learning and ai", "aerospace and space tech"],
+  locations: ["Seattle", "LA", "Taipei"],
   hobbies: ["Bouldering", "Guitar", "Traveling"],
 }
 ```
@@ -41,7 +41,7 @@ const justin = {
 - 📫 How to reach me: justinshawnchen@berkeley.edu
 - 🚀 Fun fact: I've launched 3 satellites into space and have been in mission control @ Cape Canaveral Air Force Base.
 - 🎸 Check out my [Spotify](https://open.spotify.com/artist/0JyJ6hyu6CYpX6AKH9e5bv?si=Xisv5N3LQkeuJoTcbjKFyw)!
-- 🌃 [stars burn out w/cykim](https://open.spotify.com/track/2gHqZLWUSnUiM0pFgVQKl4?si=9dae81afeac1493b) just passed 1.2 million streams :D
+- 🌃 [stars burn out w/cykim](https://open.spotify.com/track/2gHqZLWUSnUiM0pFgVQKl4?si=9dae81afeac1493b) just passed 2 million streams :D
 - 🌊 NEW SONG! [ocean tide w/ainvyu and cykim ](https://open.spotify.com/track/7GJh3oth9dsO569VvP7NtJ?si=fc9a372982c1451e)
 
 **Links**
